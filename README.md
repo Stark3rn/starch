@@ -1,5 +1,8 @@
 # starch
-setup guide for my custom arch linux version
+setup guide for my custom arch linux version.
+It includes : 
+- arch OS installation
+- Installing my custom files to run my Hyprland environment
 
 ## archinstall
 the first step is to install arch linux. To do so, go to https://archlinux.org/download/ and download one of the links. Chose one hosted on your country to be faster.
