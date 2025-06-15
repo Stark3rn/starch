@@ -31,7 +31,7 @@ Now that you have wifi and the right keymap, you can run the installation guide 
 - For disk partition, do as you want, but i recommand to encrypt the disk with LVM using a long passphrase.
 - Don't forget to add an audio manager, i'll use pipewire because it is more recent and modern but pulseaudio is okay too
 - You can install packets with the installer's manager if you want to, but you will be able to do it later anyway.
-- When finished, you can hit the "install" button.
+- When finished, you can hit the "install" button. It can be pretty long, so be patient !
 
 ## install starch
 
